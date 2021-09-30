@@ -2,6 +2,8 @@
 node_modules
 /dist
 
+# Artifacts
+tsconfig.json
 
 # local env files
 .env.local
