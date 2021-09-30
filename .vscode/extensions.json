@@ -1,0 +1,10 @@
+
+{
+  // See http://go.microsoft.com/fwlink/?LinkId=827846
+  // for the documentation about the extensions.json format
+  "recommendations": [
+    // vue code snippets
+    // https://github.com/sdras/vue-vscode-snippets
+    "sdras.vue-vscode-snippets"
+  ]
+}
