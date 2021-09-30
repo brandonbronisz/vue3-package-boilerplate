@@ -1,4 +1,4 @@
-# vue-email-builder
+# Vue3 package boilerplate.
 
 ## Project setup
 ```
@@ -24,6 +24,3 @@ npm run test:unit
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).

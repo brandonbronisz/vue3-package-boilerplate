@@ -1,0 +1,14 @@
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Dependancies
+/node_modules/
+
+# Dev Artifacts
+/dist/
+/tests/unit/coverage/
+
+# Unconfigured Editors
+.idea
+*.sln
