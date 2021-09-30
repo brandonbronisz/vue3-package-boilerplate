@@ -22,12 +22,7 @@
   "style": {
     "scope": "vue",
     "prefix": "style",
-    "body": [
-      "<style lang=\"scss\" module>",
-      "",
-      "${0}",
-      "</style>"
-    ],
+    "body": ["<style lang=\"scss\" module>", "", "${0}", "</style>"],
     "description": "<style lang=\"scss\" module>"
   }
 }

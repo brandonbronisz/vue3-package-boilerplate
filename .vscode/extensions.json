@@ -1,10 +1,36 @@
-
 {
   // See http://go.microsoft.com/fwlink/?LinkId=827846
   // for the documentation about the extensions.json format
   "recommendations": [
     // vue code snippets
     // https://github.com/sdras/vue-vscode-snippets
-    "sdras.vue-vscode-snippets"
+    "sdras.vue-vscode-snippets",
+
+    // Peek and go-to-definition for .vue files
+    // https://github.com/fuzinato/vscode-vue-peek
+    "dariofuzinato.vue-peek",
+
+    // Lint-on-save with ESLint
+    // https://github.com/microsoft/vscode-eslint
+    "dbaeumer.vscode-eslint",
+
+    // Lint-on-save with Stylelint
+    // https://github.com/stylelint/vscode-stylelint
+    "stylelint.vscode-stylelint",
+
+    // Format-on-save with Prettier
+    // https://github.com/prettier/prettier-vscode
+    "esbenp.prettier-vscode",
+
+    // SCSS intellisense
+    // https://github.com/mrmlnc/vscode-scss
+    "mrmlnc.vscode-scss",
+
+    // CSS/SCSS intellisense
+    "zignd.html-css-class-completion",
+
+    // Highlight comment
+    // https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments
+    "aaron-bond.better-comments",
   ]
 }
